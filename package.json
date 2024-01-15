@@ -1,4 +1,10 @@
 {
+    "version" : 2,
+    "image" : "https://c10.patreonusercontent.com/4/patreon-media/p/post/96474990/b777c6023d8f434abf7102e76396d75e/eyJ3Ijo2MjB9/1.jpg?token-time=1706486400&token-hash=RE19fsg3nQXZxWMKqq5_dIlgORxVxMWrwIcO_GOMmnE%3D",
+    "link" : "https://s3.console.aws.amazon.com/s3/buckets/assasin-blade-mlv",
+    "text" : " é Agora é possível incluir notícias que podem ser alteradas atualizando um arquivo em um site. Visita {a=https://patreon.com/renpytom/}Patreon do Tom{/a} para saber mais."
+}
+{
   "name": "nextjs-blog-theme",
   "description": "A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.",
   "author": "Bejamas and Netlify Inc.",
